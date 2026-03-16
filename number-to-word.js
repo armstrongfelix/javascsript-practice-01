@@ -7,7 +7,7 @@ Handle digits from 0 to 9. Print  "Unknown"  for anything outside that range.
 Test with: 0 ,  3 ,  7 ,  9 , and  11 .
 */
 
-let digit = 4;
+let digit = 444;
 
 if (digit === 0) {
   console.log("Zero");
